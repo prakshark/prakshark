@@ -12,7 +12,7 @@
 ## Skills ⚡
 
 - **Languages:** C, C++, HTML, CSS, Javascript, Python, Java
-- **Web Development:** HTML, CSS, JavaScript, ReactJS, ChartJS
+- **Web Development:** HTML, CSS, JavaScript
 - **Data Analysis:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Tools & Technologies:** Git, GitHub, VS Code, Jupyter Notebook, Anaconda Navigator
 
@@ -21,6 +21,7 @@
 Here are some of the projects I've worked on:
 
 - **[Crypto Stock Buddy](https://cryptostockbuddy.netlify.app/)**: Live Graphical Data about Cryptocurrency and Stocks, with a blog and chatbot feature.
+- **[The Simon Game](https://prakshark.github.io/The-Simon-Game/)**: Live Graphical Data about Cryptocurrency and Stocks, with a blog and chatbot feature.
 - **[Github Data Extractor](https://prakshark.github.io/github_data_extractor/)**: Extracts the user data from the Github API and presents it as a catalogue.
 
 Feel free to explore my repositories to see more of my work!
