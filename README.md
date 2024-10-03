@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Data Analyst and Full Stack Web Developer.<br>🤝 Enjoying my spree in Open Source Contributions.<br>🌱 Currently dabbling in Web Development even further.<br>💬 Though, I also enjoy Leetcoding sometimes(1600+rated)<br>⚡ Fun fact: Nothing ;
+🔭 Data Analyst and Full Stack Web Developer.<br>🤝 Enjoying my spree in Open Source Contributions.<br>🌱 Currently dabbling in Web Development even further.<br>⚡ I also enjoy Leetcoding sometimes(1600+rated)<br>
 
 
 ## 🌐 Socials:
